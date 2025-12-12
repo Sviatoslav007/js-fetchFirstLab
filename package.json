@@ -14,5 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sviatoslav007/js-fetchFirstLab.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sviatoslav007/js-fetchFirstLab/issues"
+  },
+  "homepage": "https://github.com/Sviatoslav007/js-fetchFirstLab#readme"
 }
